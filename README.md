@@ -35,30 +35,30 @@ and cybercrime awareness.
 digital-literacy-project/
 │
 ├── task-1-presentation/
-│ ├── INFOGRAPHIC.png
-│ └── description.md
+│   ├── INFOGRAPHIC.png
+│   └── description.md
 │
 ├── task-2-portfolio/
-│ ├── github.png
-│ ├── linkedin.png
-│ ├── kaggle.png
-│ └── description.md
+│   ├── github.png
+│   ├── linkedin.png
+│   ├── kaggle.png
+│   └── description.md
 │
 ├── task-3-platforms/
-│ ├── hackerrank.png
-│ ├── googleform.png
-│ └── description.md
+│   ├── hackerrank.png
+│   ├── googleform.png
+│   └── description.md
 │
 ├── task-4-email-etiquette/
-│ ├── emails.md
-│ └── social-media-checklist.md
+│   ├── emails.md
+│   └── social-media-checklist.md
 │
 ├── task-5-cybercrime/
-│ ├── casestudy.md
-│ └── prevention-checklist.md
+│   ├── casestudy.md
+│   └── prevention-checklist.md
 │
 └── report/
-└── Project_Report.pdf
+    └── Project_Report.pdf
 
 
 ---
