@@ -32,6 +32,7 @@ and cybercrime awareness.
 ---
 
 ## Repository Structure
+```
 digital-literacy-project/
 │
 ├── task-1-presentation/
@@ -59,13 +60,16 @@ digital-literacy-project/
 │
 └── report/
     └── Project_Report.pdf
+```
+
+---
 
 
 ---
 
 ## Links
-- 🔗 LinkedIn: [Krrish Kumar Yadav](https://linkedin.com/)
-- 📊 Kaggle: [krrishkumaryadav](https://kaggle.com/)
+- 🔗 LinkedIn: [Krrish Kumar Yadav](https://www.linkedin.com/in/krrish-kumar-yadav-115587381/)
+- 📊 Kaggle: [krrishkumaryadav](https://www.kaggle.com/ksquary)
 - 📝 Google Form Quiz: [click to give the quiz](https://docs.google.com/forms/d/e/1FAIpQLSebUJNmqvxs4b6Ow92VRJ2oMWxio2T3qVUZJDhvjbk2e5mOcQ/viewform?usp=dialog)
 
 ---
